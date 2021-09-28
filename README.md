@@ -1,3 +1,3 @@
 # 19CSE301_ComputerNetworks
 # Case Study
-CMS-college Management System
+CMS-College Management System
